@@ -3,12 +3,12 @@ interface Position {
   y: number;
 }
 
-type ActionType = {
-  id: 'setFirst' | 'rename' | 'copy' | 'duplicate' | 'delete';
-  label: string;
-};
+// type ActionType = {
+//  id: 'setFirst' | 'rename' | 'copy' | 'duplicate' | 'delete';
+//  label: string;
+// };
 
-type SettingsMenuType = {
-  id: string;
-  position: Position;
-} | null;
+// type SettingsMenuType = {
+//  id: string;
+//  position: Position;
+// } | null;
