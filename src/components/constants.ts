@@ -1,3 +1,4 @@
+import { ActionType } from './types';
 export const defaultPages = ['Info', 'Details', 'Other', 'Ending'];
 
 export const ACTIONS: ActionType[] = [

@@ -21,6 +21,7 @@ import SortableNavigationItem from './SortableNavigationItem';
 import SettingsMenu from './SettingsMenu';
 import PlusIcon from './icons/PlusIcon';
 import { defaultPages } from './constants';
+import { SettingsMenuType, Position } from './types';
 
 const PageNavigator: React.FC = (): ReactElement => {
   const [pages, setPages] = useState<string[]>(defaultPages);

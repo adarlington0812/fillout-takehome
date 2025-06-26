@@ -3,6 +3,7 @@
 import { useEffect, useRef } from "react";
 import { ACTIONS } from "./constants";
 import SettingsMenuIcon from "./SettingsMenuIcon";
+import { Position } from "./types";
 
 interface SettingsMenuProps {
   position: Position;

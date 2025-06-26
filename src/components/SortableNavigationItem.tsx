@@ -2,6 +2,7 @@ import { useSortable } from "@dnd-kit/sortable";
 import { CSS } from "@dnd-kit/utilities";
 import PageIcon from "./PageIcon";
 import VerticalDotIcon from "./icons/VerticalDotIcon";
+import { Position } from "./types";
 
 interface SortableNavigationItemProps {
   id: string;
