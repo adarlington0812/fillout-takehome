@@ -1,7 +1,7 @@
-interface Position {
-  x: number;
-  y: number;
-}
+// interface Position {
+//  x: number;
+//  y: number;
+// }
 
 // type ActionType = {
 //  id: 'setFirst' | 'rename' | 'copy' | 'duplicate' | 'delete';
