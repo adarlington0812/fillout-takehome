@@ -1,4 +1,4 @@
-interface IconProps {
-  color?: string;
-  size?: number;
-}
+// interface IconProps {
+//   color?: string;
+//   size?: number;
+// }
